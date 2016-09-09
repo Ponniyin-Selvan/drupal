@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sites/all/modules/xmlsitemap/gss/gss.xsl" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <sitemap>
+    <loc>http://ponniyinselvan.in/sitemap0.xml</loc>
+    <lastmod>2009-10-02T10:31:58+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://ponniyinselvan.in/sitemap1.xml</loc>
+    <lastmod>2004-01-13T17:45:18+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>http://ponniyinselvan.in/sitemap2.xml</loc>
+    <lastmod>2003-04-01T05:31:39+00:00</lastmod>
+  </sitemap>
+</sitemapindex>
